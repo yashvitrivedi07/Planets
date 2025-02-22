@@ -1,16 +1,7 @@
-# planet_app
+https://github.com/user-attachments/assets/6ef12323-fe27-4d0e-b03e-9fc883ef1797
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/d92832ca-18d4-4455-91dd-0003a28eb379" width ="200">
+<img src = "https://github.com/user-attachments/assets/98d77770-6de1-4450-a042-cc47c853c700" width ="200">
